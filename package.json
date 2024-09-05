@@ -8,8 +8,8 @@
     "start": "node build/main.js"
   },
   "author": "Nicholas Walkewicz <nwalkewicz@gmail.com>",
-  "license": "UNLICENSED",
-  "private": true,
+  "license": "MIT",
+  "private": false,
   "dependencies": {},
   "devDependencies": {
     "ts-node-dev": "^2.0.0",
